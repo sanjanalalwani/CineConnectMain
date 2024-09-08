@@ -44,5 +44,7 @@ CineConnect is a dedicated platform for movie enthusiasts to share and discuss t
 ![image](https://github.com/user-attachments/assets/69f7b893-e619-40ab-9167-1eef27e4f9fa)
 
 
+# Video of the project
 
+https://github.com/user-attachments/assets/f57d5ac3-2ff2-46dc-a190-de736456c901
 
